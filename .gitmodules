@@ -1,0 +1,4 @@
+[submodule "content"]
+	path = content
+	url = https://github.com/kazaminn/blog-content.git
+	branch = main
